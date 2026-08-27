@@ -10,7 +10,7 @@ test('Verify static dropdown selection', async ({ page }) => {
 });
 
 
-// ajit
+
 
 test('Verify multi-window handling', async ({ browser }) => {
 	const context = await browser.newContext();
